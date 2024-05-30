@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import time
 
 # Загрузка функцій з файлу
-from o4 import Point, generate_random_points, largest_triangle
+from main import Point, generate_random_points, largest_triangle
 from convexHull import convexHull
 
 # Створення списку обсягів даних
